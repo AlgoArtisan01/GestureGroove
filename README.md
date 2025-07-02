@@ -20,7 +20,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone link.git
+git clone https://github.com/AlgoArtisan01/GestureGroove.git
 cd gesture-controlled-media
 ```
 
